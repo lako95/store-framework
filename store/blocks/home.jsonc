@@ -95,7 +95,7 @@
 
     "rich-text#mobile": {
       "props": {
-        "text": "# <h3>Your Coffee, Your Way</h3> \n ### <h4>New Coffee Makers Collection</h4>",
+        "text": "<h3>Your Coffee, Your Way</h3> \n <h4>New Coffee Makers Collection</h4>",
         "textPosition": "CENTER",
         "textAlignment": "CENTER"
        }
@@ -107,7 +107,7 @@
           "url": "/small-appliances/coffee-makers"
         } ,
         "alt": "Coffee Makers Collection",
-        "maxWidth": 100%
+        "maxWidth": 100
       }
     },
 
@@ -118,7 +118,7 @@
           "url": "/small-appliances/coffee-makers"
         } ,
         "alt": "Coffee Makers Collection",
-        "maxWidth": 100%
+        "maxWidth": 100
       }
     }
 
